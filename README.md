@@ -73,7 +73,7 @@ The configurations were applied consistently across all devices using the reusab
 </p>
 
 <p align="center">
-  <img src="images/r1-loopback.png" width="700"/>
+  <img src="images/r1-loopback.png" width="900"/>
   <br/>
   <em>R1 – Loopback1 configured with IP 192.168.100.1</em>
 </p>

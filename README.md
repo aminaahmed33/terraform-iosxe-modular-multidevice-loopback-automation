@@ -89,9 +89,9 @@ The configurations were applied consistently across all devices using the reusab
   <br/>
   <em>R3 – Loopback1 configured with IP 192.168.100.3</em>
 </p>
----
 
-## 🔐 Notes
+
+## Notes
 
 - This project uses **RESTCONF** to communicate with Cisco IOS XE devices. Ensure RESTCONF is enabled on the routers.
 - Credentials and IP addresses are defined for a **lab environment only**.

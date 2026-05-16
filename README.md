@@ -66,10 +66,29 @@ The configurations were applied consistently across all devices using the reusab
 
 ### Verification Output
 
-![R1 Loopback](images/r1-loopback.png)  
-![R2 Loopback](images/r2-loopback.png)  
-![R3 Loopback](images/r3-loopback.png)  
+<p align="center">
+  <img src="images/terraform.png" width="500"/>
+  <br/>
+  <em>Terraform plan output showing the creation of loopback interfaces across multiple IOS XE routers before applying changes</em>
+</p>
 
+<p align="center">
+  <img src="images/r1-loopback.png" width="500"/>
+  <br/>
+  <em>R1 – Loopback1 configured with IP 192.168.100.1</em>
+</p>
+
+<p align="center">
+  <img src="images/r2-loopback.png" width="500"/>
+  <br/>
+  <em>R2 – Loopback1 configured with IP 192.168.100.2</em>
+</p>
+
+<p align="center">
+  <img src="images/r3-loopback.png" width="500"/>
+  <br/>
+  <em>R3 – Loopback1 configured with IP 192.168.100.3</em>
+</p>
 ---
 
 ## 🔐 Notes

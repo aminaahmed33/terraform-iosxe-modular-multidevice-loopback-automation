@@ -98,3 +98,10 @@ The configurations were applied consistently across all devices using the reusab
 - Sensitive data such as passwords stored securely (using `terraform.tfvars` and `.gitignore`).
 - The modular approach allows easy scaling to additional devices by updating the local variable map.
 - This project focuses on loopback automation, but the same structure can be extended to full network provisioning.
+
+---
+
+## Author
+
+**Amina Ahmed**  
+Packet Core & IP Network Engineer | Network Automation Enthusiast
